@@ -1,0 +1,125 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: "Titillium Web", sans-serif;
+}
+
+  
+#top-head {
+  background-image: url("./images/globe-2.jpg");
+  background-size: cover;
+  height: 20rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  border: 2px slateblue;
+}
+
+h1, h3 {
+  color: white;
+  margin: 0; /* To remove default margin */
+}
+
+h1 {
+  font-size: xx-large;
+}
+#buttons {
+  margin: 10px;
+}
+#start-button {
+  padding: 8px;
+  margin-right: 10px;
+  background-color: rgb(89, 38, 136);
+  color: white;
+}
+#search-button {
+  padding: 8px;
+  margin-right: 10px;
+  background-color: rgb(89, 38, 136);
+  color: white;
+}
+
+#sort-button {
+  padding: 8px;
+  margin-right: 10px;
+  background-color: rgb(89, 38, 136);
+  color: white;
+}
+
+#search {
+  padding: 6px;
+
+  margin-top: 8px;
+  margin-right: 16px;
+  font-size: 20px;
+  border-radius: 10px;
+}
+
+.titillium-web-extralight {
+    font-family: "Titillium Web", sans-serif;
+    font-weight: 200;
+    font-style: normal;
+  }
+  
+  .titillium-web-light {
+    font-family: "Titillium Web", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+  }
+  
+  .titillium-web-regular {
+    font-family: "Titillium Web", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+  .titillium-web-semibold {
+    font-family: "Titillium Web", sans-serif;
+    font-weight: 600;
+    font-style: normal;
+  }
+  
+  .titillium-web-bold {
+    font-family: "Titillium Web", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+  }
+  
+  .titillium-web-black {
+    font-family: "Titillium Web", sans-serif;
+    font-weight: 900;
+    font-style: normal;
+  }
+  
+  .titillium-web-extralight-italic {
+    font-family: "Titillium Web", sans-serif;
+    font-weight: 200;
+    font-style: italic;
+  }
+  
+  .titillium-web-light-italic {
+    font-family: "Titillium Web", sans-serif;
+    font-weight: 300;
+    font-style: italic;
+  }
+  
+  .titillium-web-regular-italic {
+    font-family: "Titillium Web", sans-serif;
+    font-weight: 400;
+    font-style: italic;
+  }
+  
+  .titillium-web-semibold-italic {
+    font-family: "Titillium Web", sans-serif;
+    font-weight: 600;
+    font-style: italic;
+  }
+  
+  .titillium-web-bold-italic {
+    font-family: "Titillium Web", sans-serif;
+    font-weight: 700;
+    font-style: italic;
+    }
+  
